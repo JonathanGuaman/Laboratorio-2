@@ -18,23 +18,25 @@
 ###  2.- MARCO TEORICO:
 
 
-
-
 -  Es una Ley fundamental que se usa para las distintas ramas de la ingenieria especialmente los que se relacionan con los circuitos electricos, es conocido como las sumas algebraica de los voltajes de una malla electrica cerrada sera igual a 0, tambien lo podemos expresar con relacion a la resistencia e Intensidad y poderlo expresar en forma de ecuacion y dependiendo el numero de mallas sera el numero de ecuaciones.
+
+
+![](https://github.com/JonathanGuaman/Laboratorio-2/blob/main/Diagramas/Marco%20Teorico.png)
+
 
 
 ###  3.- DIAGRAMAS:
 
 -  Modelo del circuito del laboratorio:
 
-
+![](https://github.com/JonathanGuaman/Laboratorio-2/blob/main/Diagramas/Diagrama%20%231.png)
 
 Figura 3.1
 
 
 - Circuito Simulado en TINKERCAD:
 
-
+![](https://github.com/JonathanGuaman/Laboratorio-2/blob/main/Diagramas/Diagrama%20%232.png)
 
 Figura 3.2
 
@@ -47,6 +49,7 @@ Figura 3.3
 
 ###  4.- LISTA DE COMPONENTES:
 
+![](https://github.com/JonathanGuaman/Laboratorio-2/blob/main/Tablas%20de%20Valores/Tabla%20%232.png)
 
 
 Tabla 4.1
@@ -62,6 +65,8 @@ Tabla 4.1
 
 4.- Por ultimo paso anotar en una tabla de valores los valores obtenidos: analitica y experimental.
 
+![](https://github.com/JonathanGuaman/Laboratorio-2/blob/main/Tablas%20de%20Valores/Diagrama%20%233.png)
+
 
 Tabla 4.1
 
@@ -71,7 +76,7 @@ Tabla 4.1
 
 6.-Como ultimo paso realizamos la obtencion del porcentaje de error.
 
-
+![](https://github.com/JonathanGuaman/Laboratorio-2/blob/main/Tablas%20de%20Valores/Calculos%20de%20error%20%231.png)
 
 Tabla 6.1
 
