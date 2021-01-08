@@ -17,8 +17,7 @@
 
 ###  2.- MARCO TEORICO:
 
-
-! [](Diagramas/Marco Teorico.png)
+![](Diagramas/Marco Teorico.png)
 
 
 
