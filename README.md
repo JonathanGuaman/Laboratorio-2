@@ -42,6 +42,7 @@ Figura 3.2
 
 Corrientes de las 3 Mallas Electricas:
 
+![](https://github.com/JonathanGuaman/Laboratorio-2/blob/main/Tablas%20de%20Valores/Resultados%20Experimentales%20%231.png)
 
 
 
@@ -89,7 +90,11 @@ Tabla 6.1
 
 ###  BIBLIOGRAFIA:
 
+- Floy,T.L (2007). Principios decircuitos Electricos(Octava ed.)
+
 ![] (https://ekuatio.com/leyes-de-kirchhoff-aplicacion-y-ejercicios-resueltos-paso-a-paso/)
+
+
 
 
 
