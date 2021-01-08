@@ -17,7 +17,6 @@
 
 ###  2.- MARCO TEORICO:
 
-![](https://github.com/JonathanGuaman/Laboratorio-2/blob/main/Diagramas/Marco%20Teorico.png)
 
 
 
@@ -28,8 +27,6 @@
 
 -  Modelo del circuito del laboratorio:
 
-![](https://github.com/JonathanGuaman/Laboratorio-2/blob/main/Diagramas/Diagrama%20%231.png)
-
 
 
 Figura 3.1
@@ -37,7 +34,6 @@ Figura 3.1
 
 - Circuito Simulado en TINKERCAD:
 
-![](https://github.com/JonathanGuaman/Laboratorio-2/blob/main/Diagramas/Diagrama%20%232.png)
 
 
 Figura 3.2
@@ -45,14 +41,12 @@ Figura 3.2
 Corrientes de las 3 Mallas Electricas:
 
 
-![](https://github.com/JonathanGuaman/Laboratorio-2/blob/main/Tablas%20de%20Valores/Diagrama%20%233.png)
 
 
 Figura 3.3
 
 ###  4.- LISTA DE COMPONENTES:
 
-![](https://github.com/JonathanGuaman/Laboratorio-2/blob/main/Tablas%20de%20Valores/Tabla%20%232.png)
 
 
 Tabla 4.1
