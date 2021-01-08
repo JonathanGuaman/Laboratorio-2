@@ -7,7 +7,13 @@
 
 -  Comprobar los resultados que obtengamos en la plataforma de TINKERCAD con los resultados obtenidos analiticamente.
 
-###
+###  Objetivo Especifico:
+
+- Calcular las mallas electricas que tendran relacion directamente proporcional con el  producto de las resistencias con su respectiva intensidad.
+
+- Familiarizarnos con la plataforma TINKERCAD y asi poder tener una nocionde como sera el comportamiento las corrientes.
+
+###  Marco Teorico:
 
 
 
