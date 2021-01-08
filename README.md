@@ -17,13 +17,7 @@
 
 ###  2.- MARCO TEORICO:
 
-
-
-
-
 ![](Diagramas/Marco Teorico.png)
-
-
 
 -  Es una Ley fundamental que se usa para las distintas ramas de la ingenieria especialmente los que se relacionan con los circuitos electricos, es conocido como las sumas algebraica de los voltajes de una malla electrica cerrada sera igual a 0, tambien lo podemos expresar con relacion a la resistencia e Intensidad y poderlo expresar en forma de ecuacion y dependiendo el numero de mallas sera el numero de ecuaciones.
 
