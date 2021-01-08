@@ -1,4 +1,5 @@
-###Laboratorio #2
+
+Laboratorio1
 
 Practica #2 (Análisis de Mallas)
 
